@@ -45,6 +45,7 @@ for i in range(n):
 ```
 
 ##Output:
+![Screenshot 2023-12-25 103913](https://github.com/23004426/Gaussian/assets/144979327/f136697b-f243-416f-b26e-def4857e5b21)
 
 
 ## Result:
