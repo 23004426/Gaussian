@@ -8,18 +8,17 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-```
+
 1.Interchange and equation (or ).
 2.Divide the equation by (or ).
 3.Add times the equation to the equation (or ). Add times the equation to the equation (or ).
 4.Multiply the equation by (or ).
-```
+
 ## Program:
 ```
 Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: Tirupathi Jayadeep 
 RegisterNumber: 23004426 
-```
 import numpy as np
 import sys
 n=int(input())
@@ -43,7 +42,7 @@ for i in range(n-2,-1,-1):
     X[i]=X[i]/a[i][i]
 for i in range(n):
     print("X%d = %0.2f" %(i,X[i]), end=" ")
-
+```
 
 ##Output:
 
