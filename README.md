@@ -13,7 +13,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 3.Add times the equation to the equation (or ). Add times the equation to the equation (or ).
 4.Multiply the equation by (or ).
 ## Program:
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+'''
+Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: Tirupathi Jayadeep 
 RegisterNumber: 23004426 
 import numpy as np
@@ -41,7 +42,7 @@ for i in range(n):
     print("X%d = %0.2f" %(i,X[i]), end=" ")
 ```
 ## Output:
-![Screenshot 2023-12-25 102321](https://github.com/23004426/Gaussian/assets/144979327/3a1a9de3-9635-44e0-99a2-5d6df9c7c9b8)
+![Screenshot 2023-12-25 102321](https://github.com/23004426/Gaussian/assets/144979327/a33c213d-a4f3-4b07-9c6b-072facb4f7bf)
 
 
 ## Result:
