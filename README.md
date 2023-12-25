@@ -41,8 +41,8 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print("X%d = %0.2f" %(i,X[i]), end=" ")
 ```
-## Output:
-![Screenshot 2023-12-25 102321](https://github.com/23004426/Gaussian/assets/144979327/a33c213d-a4f3-4b07-9c6b-072facb4f7bf)
+##Output:
+![Screenshot 2023-12-25 102321](https://github.com/23004426/Gaussian/assets/144979327/626f3201-6073-4316-931e-bec97c2fdc3d)
 
 
 ## Result:
